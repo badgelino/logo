@@ -1,4 +1,3 @@
-logo
-====
+# Logo Credits
 
-Logo author attribution - Jason Grube, links and info
+"Identity Protection" Icon designed by [Jason Grube](http://www.thenounproject.com/grubedoo) from the [Noun Project](http://www.thenounproject.com)
